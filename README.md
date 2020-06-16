@@ -2,10 +2,10 @@
 crowsi 比嘉龍杏
 https://github.com/crowsi/Sample
 
-##ローカルリポジトリ
+## ローカルリポジトリ
 * お好み焼きレシピ
      [okonomi.txt](okonomi.txt)
 
-##リモートリポジトリ
+## リモートリポジトリ
 *README.mdを作ってみる
 *マークダウンを覚える
