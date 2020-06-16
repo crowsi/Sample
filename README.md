@@ -1,6 +1,6 @@
 # はじめてのGitHub
 crowsi 比嘉龍杏
-https;//github.com/Sample
+https;//github.com/crowsi/Sample
 
 ##ローカルリポジトリ
 * お好み焼きレシピ
