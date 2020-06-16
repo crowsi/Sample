@@ -7,5 +7,5 @@ https://github.com/crowsi/Sample
      [okonomi.txt](okonomi.txt)
 
 ## リモートリポジトリ
-*README.mdを作ってみる
-*マークダウンを覚える
+* README.mdを作ってみる
+* マークダウンを覚える
